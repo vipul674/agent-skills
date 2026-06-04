@@ -1,7 +1,6 @@
 ---
 name: merge-ready-pr-report
 description: Final gate for GitHub/GSSoC issue-to-PR work. Use only when preparing the final merge-ready report before commit, push, or PR creation.
-disable-model-invocation: true
 ---
 
 # Merge Ready PR Report
